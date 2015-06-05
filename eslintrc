@@ -7,10 +7,11 @@
     "react"
   ],
   "env": {
+    "es6": true,
     "browser": true,
     "amd": false,
     "mocha": false,
-    "jasmine": true
+    "jasmine": true,
     "node": true
   },
   "ecmaFeatures": {
