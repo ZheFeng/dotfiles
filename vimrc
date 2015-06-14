@@ -40,7 +40,7 @@ let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_enable_sign=1
-"let g:syntastic_javascript_checkers = ['eslint']
+let g:syntastic_javascript_checkers = ['eslint']
 
 " javascript
 let javascript_enable_domhtmlcss=1
