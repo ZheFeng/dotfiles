@@ -182,7 +182,7 @@
 /**
  * JSX style
  */
-    "react/display-name": 0,
+    "react/display-name": 2,
     "react/jsx-boolean-value": 2,
     "react/jsx-quotes": [2, "double"],
     "react/jsx-no-undef": 2,
