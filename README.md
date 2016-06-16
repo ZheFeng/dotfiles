@@ -1,5 +1,9 @@
 # dotfiles
 
+ln -s ~/development/dotfiles/vim/bundle/vim-pathogen/autoload ~/development/dotfiles/vim/autoload
+
+
+
 ```
 ln -s ~/development/dotfiles/vim ~/.vim
 ln -s ~/development/dotfiles/vimrc ~/.vimrc
